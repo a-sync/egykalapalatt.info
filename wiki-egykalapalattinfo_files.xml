@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file name="egykalapalattinfo-20140708-history.xml.7z" source="original">
+    <format>7z</format>
+    <mtime>1409476540</mtime>
+    <size>154712</size>
+    <md5>c6c100510dcae9a92f691ba507d72e9a</md5>
+    <crc32>464b85f6</crc32>
+    <sha1>0b2c64e7c540c0d9bfc5d1a4645b363f8f8fb691</sha1>
+  </file>
+  <file name="wiki-egykalapalattinfo_meta.sqlite" source="original">
+    <format>Metadata</format>
+    <mtime>1409476563</mtime>
+    <size>8192</size>
+    <md5>adb62fdd33e65f6533c9b2a1474af313</md5>
+    <crc32>c70625a1</crc32>
+    <sha1>2439994cc559060253875b8ce672c41e65e26451</sha1>
+  </file>
+  <file name="egykalapalattinfo-20140708-wikidump.7z" source="original">
+    <format>7z</format>
+    <mtime>1409476560</mtime>
+    <size>6704376</size>
+    <md5>d9e8587ece69115b5c47a887ef930b1f</md5>
+    <crc32>58dc1608</crc32>
+    <sha1>4dc18e9c9a8110409263f4d1c0be7635659c19f5</sha1>
+  </file>
+  <file name="wiki-egykalapalattinfo_meta.xml" source="original">
+    <format>Metadata</format>
+    <mtime>1473864664</mtime>
+    <size>975</size>
+    <md5>c7f5f2b6ce35de864ed052fda9b2fbed</md5>
+    <crc32>ce156a79</crc32>
+    <sha1>35d20ea257391e70084d48dfe2a85f72ed14ebd3</sha1>
+  </file>
+  <file name="wiki-egykalapalattinfo_archive.torrent" source="metadata">
+    <btih>a022c2dcbc96fb2c1922d62aa8465848be3dff15</btih>
+    <mtime>1473864664</mtime>
+    <size>2219</size>
+    <md5>995585759f05331c023d88e81f6e9f0e</md5>
+    <crc32>7a22067b</crc32>
+    <sha1>e336e7d897e8139f244d305665f1b191ddf3fa76</sha1>
+    <format>Archive BitTorrent</format>
+  </file>
+  <file name="wiki-egykalapalattinfo_files.xml" source="original">
+    <format>Metadata</format>
+    <md5>acba0ca5643e744bc269868e18c44ef6</md5>
+  </file>
+</files>
